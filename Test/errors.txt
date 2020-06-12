@@ -1,0 +1,11 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/options.rpy", line 208: invalid syntax
+    define build.itch_project = "ThatAaronW/test-project"
+                ^
+    
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Mon Jan 20 21:22:30 2020
